@@ -1,0 +1,36 @@
+<Departments>
+	<Department ID="1">
+		<Name> Jhon Carter </Name>
+		<Address>
+			<house> 38 </house>
+			<road> 3 </road>
+			<state> Banani </state>
+			<city> Dhaka </city>
+		</Address>
+		<DEPARTMENT> Sales </DEPARTMENT>
+		<SALARY> $20000 </SALARY>
+	</Department>
+	<Department ID="2">
+		<Name> Mark Zuckarberg </Name>
+		<Address>
+			<flat> A/1 </flat>
+			<house> 20 </house>
+			<road> 18 </road>
+			<state> Mirpur </state>
+			<city> Dhaka </city>
+		</Address>
+		<DEPARTMENT> Accounts </DEPARTMENT>
+		<SALARY> $12000 </SALARY>
+	</Department>
+	<Department ID="3">
+		<Name> Ala Voski </Name>
+		<Address>
+			<house> 38 </house>
+			<road> 3 </road>
+			<state> Banani </state>
+		</Address>
+		<DEPARTMENT> Human Resource </DEPARTMENT>
+		<SALARY> $30000 </SALARY>
+	</Department>
+</Departments>
+
